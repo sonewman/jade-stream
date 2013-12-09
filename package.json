@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git://github.com/sonewman/jade-stream.git"
   },
-  "author": "",
-  "license": "BSD-2-Clause",
+  "author": "Sam Newman",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/sonewman/jade-stream/issues"
   },
@@ -21,5 +21,8 @@
   },
   "devDependencies": {
     "tap": "~0.4.6"
+  },
+  "engines": {
+    "node": ">=0.10"
   }
 }
