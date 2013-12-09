@@ -1,0 +1,25 @@
+{
+  "name": "jade-stream",
+  "version": "0.1.0",
+  "description": "Streaming jade parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sonewman/jade-stream.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sonewman/jade-stream/issues"
+  },
+  "homepage": "https://github.com/sonewman/jade-stream",
+  "dependencies": {
+    "jade": "~0.35.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
+}
