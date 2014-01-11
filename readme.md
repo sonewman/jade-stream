@@ -1,4 +1,4 @@
-# Simple to user Jade Stream
+# Simple to use Jade Stream
 
 Install:
 `
